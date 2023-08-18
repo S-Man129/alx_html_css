@@ -219,9 +219,8 @@
     letter-spacing: var(--nav-item-letter-spacing);
   }
 
-  .nav .nav-item + .nav-item{
-    margin: var(--0 0 0 2rem);
-    /* margin: var(--nav-item-margin); */
+  .nav .nav-item + .nav-item {
+    margin: 0 0 0 2rem;
   }
   
   .nav .nav-link {
